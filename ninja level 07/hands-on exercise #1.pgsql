@@ -1,0 +1,1 @@
+SELECT pfirstname || '' || plastname || '' || CAST(PPOINTS AS TEXT) ppoints FROM people ORDER BY ppoints DESC;
