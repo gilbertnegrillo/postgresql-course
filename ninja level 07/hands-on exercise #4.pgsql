@@ -1,0 +1,7 @@
+SELECT 2^8 AS "Probem 1";
+SELECT 1000/150 AS "Problem 2";
+SELECT 1000%150 AS "Problem 3";
+SELECT 400/34.3 AS "Problem 4";
+SELECT 400%34.3 AS "Probem 5";
+SELECT ROUND(400/34.3, 4) AS "Problem 6";
+SELECT 85>64 AS "Problem 7";
