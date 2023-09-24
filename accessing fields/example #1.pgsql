@@ -1,0 +1,1 @@
+SELECT CAST('{"name": "Postgres", "version": 12.1}' AS JSONB) -> 'version';
