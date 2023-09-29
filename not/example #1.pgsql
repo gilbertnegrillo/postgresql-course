@@ -1,0 +1,1 @@
+SELECT pfirstname, plastname, pstate, pcity FROM people WHERE pstate = 'NY' AND pcity NOT LIKE 'A%' ORDER BY pcity ASC;
