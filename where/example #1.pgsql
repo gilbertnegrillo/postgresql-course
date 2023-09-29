@@ -1,0 +1,1 @@
+SELECT pfirstname, pstate FROM people WHERE pstate = 'NY';

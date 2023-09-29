@@ -1,0 +1,1 @@
+SELECT pstate FROM people GROUP BY pstate;
