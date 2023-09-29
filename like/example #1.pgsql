@@ -1,0 +1,1 @@
+SELECT pfirstname, plastname, pstate, pcity FROM people WHERE pstate LIKE 'A_';
