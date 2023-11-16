@@ -1,0 +1,8 @@
+-- START TRANSACTION ISOLATION LEVEL SERIALIZABLE;
+
+-- UPDATE employees
+-- SET ename = 'James'
+-- WHERE eid = 6;
+
+-- COMMIT;
+-- ROLLBACK;
