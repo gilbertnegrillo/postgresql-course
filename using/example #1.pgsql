@@ -1,0 +1,6 @@
+-- DELETE FROM customers
+-- USING rentals, movies
+-- WHERE customers.cid = rentals.cid
+    -- AND rentals.mid = movies.mid
+    -- AND movies.mname = 'The Lives of Others'
+-- RETURNING *;
